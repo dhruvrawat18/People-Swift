@@ -41,4 +41,17 @@ People uses the following external packages:
 
 * [CodeScanner by Paul Hudson](https://github.com/twostraws/CodeScanner) - An open-source package for scanning QR codes in Swift.
 
+
 Please make sure to check the package's documentation and licensing for more details.
+
+
+## Screenshots
+<img width="375" alt="Everyone" src="https://github.com/dhruvrawat18/People-Swift/assets/31036925/73979dcb-4585-4dd3-a720-a2817b892f00">
+<img width="435" alt="QRCode" src="https://github.com/dhruvrawat18/People-Swift/assets/31036925/c1f19319-ac29-4159-b185-d00a61343ba7">
+<img width="395" alt="SwipeActions" src="https://github.com/dhruvrawat18/People-Swift/assets/31036925/e7a96f9d-7b76-4ebf-9d1b-a626ffaa76b9">
+<img width="379" alt="SaveToPhotos" src="https://github.com/dhruvrawat18/People-Swift/assets/31036925/85fb9218-0652-47f6-9461-15c42961d7f9">
+<img width="378" alt="Notifications" src="https://github.com/dhruvrawat18/People-Swift/assets/31036925/0293289c-ca42-46b9-b423-794ca02a5e8b">
+
+
+
+
